@@ -183,3 +183,16 @@ Not supported; 64-bit Windows only.
 ---
 
 <p align="center"><sub>Based on <a href="https://github.com/armanlife/arman-vpn-client">armanlife/arman-vpn-client</a></sub></p>
+
+
+---
+
+## ⚖️ مجوز و حقوق آثار / License & Rights
+
+- کدهای به‌ارث‌رسیده و اجزای شخص ثالث تابع مجوزهای اصلی خود هستند؛ از جمله **GNU GPL v3** در موارد قابل اعمال.
+- نام، لوگو، آیکون‌ها و آثار بصری اختصاصی Foxy Hide VPN که متعلق به `mamvcs1` هستند، تابع [مجوز اختصاصی آثار و هویت بصری](BRAND-LICENSE.md) هستند.
+- برای استفاده از آثار اختصاصی Foxy Hide، اجازهٔ کتبی قبلی صاحب حقوق لازم است.
+
+- Upstream code and third-party components remain under their respective original licenses, including **GNU GPL v3** where applicable.
+- Original Foxy Hide VPN branding, logos, icons, and visual assets owned by `mamvcs1` are covered by the [Foxy Hide Brand & Original Assets License](BRAND-LICENSE.md).
+- Prior written permission from the rights holder is required to use those protected brand materials.
