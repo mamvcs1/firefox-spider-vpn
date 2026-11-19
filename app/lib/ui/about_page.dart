@@ -96,6 +96,8 @@ class _AboutPageState extends State<AboutPage> {
               Text(l.appTitle, style: theme.textTheme.titleLarge),
               const SizedBox(height: 4),
               Text(l.unofficialNote, style: muted, textAlign: TextAlign.center),
+              const SizedBox(height: 12),
+              _Line(label: 'Developer / توسعه‌دهنده', value: 'mamvcs1'),
               const SizedBox(height: 20),
               _Line(label: l.appVersionLabel, value: appVersion),
               const Divider(height: 24),
