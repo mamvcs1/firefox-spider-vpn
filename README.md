@@ -14,7 +14,7 @@
 
 <div dir="rtl">
 
-# 🕷️ Foxy Hide VPN
+# 🦊 Foxy Hide VPN
 
 یک **VPN رایگان** برای **اندروید، ویندوز، مک و لینوکس**. با حساب Firefox خودتان وارد می‌شوید و ترافیکتان از طریق سرورهای Mozilla عبور می‌کند.
 
@@ -118,7 +118,7 @@
 
 <a id="english"></a>
 
-# 🕷️ Foxy Hide VPN
+# 🦊 Foxy Hide VPN
 
 A **free VPN** for **Android, Windows, macOS and Linux**. Sign in with your own Firefox Account and your traffic goes through Mozilla's servers.
 
