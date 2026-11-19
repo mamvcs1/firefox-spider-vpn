@@ -90,7 +90,7 @@ BEGIN
         BLOCK "040904e4"
         BEGIN
             VALUE "CompanyName", "Arman" "\0"
-            VALUE "FileDescription", "spider firefox vpn" "\0"
+            VALUE "FileDescription", "Foxy Hide" "\0"
             VALUE "FileVersion", VERSION_AS_STRING "\0"
             VALUE "InternalName", "arman-vpn" "\0"
             VALUE "LegalCopyright", "Copyright (C) 2026 Arman" "\0"
