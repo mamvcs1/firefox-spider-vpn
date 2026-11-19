@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1600" height="420" viewBox="0 0 1600 420" role="img" aria-labelledby="title desc">
   <title id="title">Foxy Hide VPN</title>
-  <desc id="desc">Foxy Hide VPN banner with an orange spider emblem.</desc>
+  <desc id="desc">Foxy Hide VPN banner with a stylized orange fox emblem.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#111827"/>
@@ -11,19 +11,21 @@
       <stop offset="1" stop-color="#f06a22"/>
     </linearGradient>
     <radialGradient id="glow">
-      <stop offset="0" stop-color="#f47725" stop-opacity=".23"/>
+      <stop offset="0" stop-color="#f47725" stop-opacity=".25"/>
       <stop offset="1" stop-color="#f47725" stop-opacity="0"/>
     </radialGradient>
   </defs>
   <rect width="1600" height="420" rx="30" fill="url(#bg)"/>
   <circle cx="330" cy="210" r="230" fill="url(#glow)"/>
-  <g transform="translate(330 208)" fill="none" stroke="url(#orange)" stroke-width="13" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M0-48 C-42-72-64-34-48 2 C-37 28-17 42 0 47 C17 42 37 28 48 2 C64-34 42-72 0-48Z" fill="#f47725" fill-opacity=".13"/>
-    <path d="M-28-34 L-100-88 L-142-88 M-43-12 L-126-34 L-166-12 M-42 18 L-120 55 L-156 92 M-24 40 L-70 112 L-92 145"/>
-    <path d="M28-34 L100-88 L142-88 M43-12 L126-34 L166-12 M42 18 L120 55 L156 92 M24 40 L70 112 L92 145"/>
-    <path d="M-18-8 Q0-22 18-8 M-18 14 Q0 27 18 14" stroke-width="8"/>
-    <circle cx="-17" cy="-45" r="5" fill="#ffb14a" stroke="none"/>
-    <circle cx="17" cy="-45" r="5" fill="#ffb14a" stroke="none"/>
+  <g transform="translate(330 210)">
+    <path d="M-145-108 L-55-72 L0-96 L55-72 L145-108 L126 5 C116 82 57 139 0 166 C-57 139-116 82-126 5Z" fill="url(#orange)"/>
+    <path d="M-145-108 L-55-72 L-26 15 L-88-9Z" fill="#ffbd68"/>
+    <path d="M145-108 L55-72 L26 15 L88-9Z" fill="#e85e1c"/>
+    <path d="M-105 2 L-50 34 L0 112 L50 34 L105 2 C90 80 45 127 0 150 C-45 127-90 80-105 2Z" fill="#fff3e5"/>
+    <path d="M-50 34 L0 112 L50 34 L0 52Z" fill="#f8a34c"/>
+    <path d="M-70-4 Q-48-25-26-5 M26-5 Q48-25 70-4" fill="none" stroke="#182233" stroke-width="12" stroke-linecap="round"/>
+    <path d="M-15 50 Q0 39 15 50 L0 66Z" fill="#182233"/>
+    <path d="M-145 108 Q-205 145-181 192 Q-125 176-92 143" fill="none" stroke="url(#orange)" stroke-width="19" stroke-linecap="round"/>
   </g>
   <g fill="#fff" font-family="Arial, Helvetica, sans-serif">
     <text x="590" y="195" font-size="94" font-weight="800" letter-spacing="1">Foxy Hide</text>
