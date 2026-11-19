@@ -1,8 +1,8 @@
-/* spider firefox vpn dashboard. Dark by default; light follows the system or the
+/* Foxy Hide VPN dashboard. Dark by default; light follows the system or the
    theme switch (data-theme on <html>). */
 :root {
   --bg: #0b0d12;
-  --bg-grad: radial-gradient(1200px 600px at 85% -10%, rgba(143, 107, 255, .10), transparent 60%),
+  --bg-grad: radial-gradient(1200px 600px at 85% -10%, rgba(255, 122, 53, .10), transparent 60%),
              radial-gradient(900px 500px at -10% 110%, rgba(255, 113, 57, .07), transparent 60%);
   --surface: #12151d;
   --surface-2: #171b25;
@@ -12,9 +12,9 @@
   --text: #e7e9f0;
   --muted: #8a92a6;
   --faint: #5d667b;
-  --accent: #8f6bff;
+  --accent: #ff7a35;
   --accent-2: #ff7139;
-  --accent-soft: rgba(143, 107, 255, .14);
+  --accent-soft: rgba(255, 122, 53, .14);
   --on-accent: #ffffff;
   --ok: #34d399;
   --ok-soft: rgba(52, 211, 153, .13);
@@ -33,12 +33,12 @@
   --radius-sm: 9px;
   --sans: "Inter", "Segoe UI Variable Text", "Segoe UI", system-ui, -apple-system, Roboto, sans-serif;
   --mono: "JetBrains Mono", "Cascadia Mono", ui-monospace, Consolas, Menlo, monospace;
-  --gradient: linear-gradient(135deg, #ff9a3c 0%, #ff3d77 52%, #8f6bff 100%);
+  --gradient: linear-gradient(135deg, #ff9a3c 0%, #ff3d77 52%, #ff7a35 100%);
   color-scheme: dark;
 }
 :root[data-theme="light"] {
   --bg: #f4f5f9;
-  --bg-grad: radial-gradient(1200px 600px at 85% -10%, rgba(143, 107, 255, .10), transparent 60%),
+  --bg-grad: radial-gradient(1200px 600px at 85% -10%, rgba(255, 122, 53, .10), transparent 60%),
              radial-gradient(900px 500px at -10% 110%, rgba(255, 113, 57, .06), transparent 60%);
   --surface: #ffffff;
   --surface-2: #f7f8fb;
@@ -48,8 +48,8 @@
   --text: #141824;
   --muted: #5e667a;
   --faint: #9aa2b4;
-  --accent: #6d45f0;
-  --accent-soft: rgba(109, 69, 240, .10);
+  --accent: #e96825;
+  --accent-soft: rgba(233, 104, 37, .10);
   --ok: #0f9d6b;
   --ok-soft: rgba(15, 157, 107, .10);
   --sleep: #6366f1;
@@ -182,7 +182,7 @@ input.secret:not(.revealed) { -webkit-text-security: disc; }
 /* The program's icon (icon.png, made by app/tool/app_icons.py). */
 .brand-mark {
   width: 40px; height: 40px; flex: none;
-  background: url("icon.png") center / contain no-repeat;
+  background: url("foxy-hide.svg") center / contain no-repeat;
   filter: drop-shadow(0 4px 10px rgba(20, 30, 70, .28));
 }
 .brand-mark.big { width: 72px; height: 72px; margin: 0 auto 1rem; }
