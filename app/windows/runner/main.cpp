@@ -108,7 +108,7 @@ int APIENTRY wWinMain(_In_ HINSTANCE instance, _In_opt_ HINSTANCE prev,
   FlutterWindow window(project, static_cast<WPARAM>(std::stoul(key)), start_hidden);
   Win32Window::Size size(820, 680);
   Win32Window::Point origin = CenteredOrigin(size);
-  if (!window.Create(L"spider firefox vpn", origin, size)) {
+  if (!window.Create(L"Foxy Hide", origin, size)) {
     return EXIT_FAILURE;
   }
   window.SetQuitOnClose(true);
