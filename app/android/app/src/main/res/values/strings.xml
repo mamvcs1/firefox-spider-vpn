@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <!-- The app's name, under its icon and in its notification. -->
-    <string name="app_name">spider firefox vpn</string>
+    <string name="app_name">Foxy Hide</string>
     <string name="notification_channel">VPN</string>
     <string name="notification_connecting">Connecting…</string>
     <string name="notification_no_network">No internet connection</string>
