@@ -1,6 +1,6 @@
 {
   "@@locale": "en",
-  "appTitle": "spider firefox vpn",
+  "appTitle": "Foxy Hide",
   "navOverview": "Overview",
   "navAccounts": "Accounts",
   "navSettings": "Settings",
@@ -932,7 +932,7 @@
   "tunMissing": "The TUN service isn't installed.",
   "tunOutdated": "The TUN service is older than this app. Install it again to use TUN mode.",
   "tunAppOutdated": "The TUN service is newer than this app. Update the app to use TUN mode.",
-  "tunBusy": "Another copy of spider firefox vpn is using TUN mode.",
+  "tunBusy": "Another copy of Foxy Hide is using TUN mode.",
   "tunNoDriver": "The system's TUN driver isn't available. Restart the computer and try again.",
   "tunInstall": "Install",
   "tunInstallAgain": "Install again",
@@ -940,11 +940,11 @@
   "removeTunService": "Remove the TUN service",
   "removeTunServiceHint": "Removes the system service that TUN mode uses. Choosing TUN again installs it again.",
   "tunServiceRemoved": "The TUN service was removed.",
-  "tunInstallPrompt": "spider firefox vpn wants to install the service for TUN mode.",
+  "tunInstallPrompt": "Foxy Hide wants to install the service for TUN mode.",
   "@tunInstallPrompt": {
     "description": "macOS: the reason its administrator password prompt shows when the app installs the TUN mode's service."
   },
-  "tunRemovePrompt": "spider firefox vpn wants to remove the service for TUN mode.",
+  "tunRemovePrompt": "Foxy Hide wants to remove the service for TUN mode.",
   "@tunRemovePrompt": {
     "description": "macOS: the reason its administrator password prompt shows when the app removes the TUN mode's service while the service does not run."
   },
